@@ -1,4 +1,4 @@
-### Advanced Password Generator and Checker
+# Advanced Password Generator and Checker
   *This Python script provides a highly customizable password generator and a complexity checker to help you create and assess the strength of your passwords. It offers advanced features like entropy calculation, strength ratings, customizable character sets, and the ability to exclude ambiguous characters for added security.*
 
 ## Features
